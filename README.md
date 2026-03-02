@@ -5,7 +5,6 @@ I’m Michel — SRE / DevOps Engineer, building reliability automation and grow
 👯 Open to collaborate on: AWS, Terraform, Kubernetes, Linux, Observability, SRE best practices  
 🤝 Looking for help with: advanced Kubernetes patterns, Java testing strategies and test design  
 💬 Ask me about: SRE culture, Cloud Architecture, Reliability engineering, Terraform/Kubernetes  
-✉️ Reach me at: mi.apferreira@gmail.com  
 😄 Pronouns: He/Him  
 
 ---
