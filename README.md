@@ -12,26 +12,4 @@ Currently growing into Java development (Spring Boot) and Rioplatense Spanish �
 ### 🤝 Let’s connect
 - Pronouns: He/Him
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=miapferreira&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600&v=1"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=miapferreira&theme=dark&hide_border=true&cache_seconds=21600&v=1"
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=miapferreira&theme=github-compact&hide_border=true&v=1"
-    alt="Activity Graph"
-  />
-</p>
