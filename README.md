@@ -9,7 +9,4 @@ Currently growing into Java development (Spring Boot) and Rioplatense Spanish �
 - Observability: Grafana, Elastic, Datadog
 - Learning: Java, Spring Boot, JUnit/Mockito
 
-### 🤝 Let’s connect
-- Pronouns: He/Him
-
 
